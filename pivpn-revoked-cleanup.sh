@@ -166,9 +166,12 @@ confirm_and_restart_openvpn() {
 }
 
 main() {
+  log "PiVPN Revoked Profiles Cleanup Script"
+  log "-----------------------------------"
   log "Author: Marcin Bischoff (mar-tin-666)"
   log "Source: https://github.com/mar-tin-666/pivpn-revoked-cleanup"
   log "Check the repository for newer versions of this script"
+  log "-----------------------------------"
   log "Starting PiVPN revoked profiles cleanup"
 
   require_root
