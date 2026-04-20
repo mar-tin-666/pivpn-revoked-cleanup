@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ----------------------------------------------
-# Author: mar-tin-666
+# Author: Marcin Bischoff (mar-tin-666)
 # Source: https://github.com/mar-tin-666/pivpn-revoked-cleanup
 # Updates: Check the repository above for newer versions.
 # ----------------------------------------------
